@@ -349,11 +349,20 @@
 }
 
 .link-2 {
+  display: block;
   font-family: 'Open Sans', sans-serif;
   color: hsla(0, 0%, 100%, 0.68);
   font-size: 16px;
   font-weight: 400;
   text-decoration: none;
+}
+
+.lightbox-link {
+  width: 250px;
+}
+
+._100vh {
+  height: 100vh;
 }
 
 @font-face {
