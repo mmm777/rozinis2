@@ -348,6 +348,14 @@
   font-weight: 700;
 }
 
+.link-2 {
+  font-family: 'Open Sans', sans-serif;
+  color: hsla(0, 0%, 100%, 0.68);
+  font-size: 16px;
+  font-weight: 400;
+  text-decoration: none;
+}
+
 @font-face {
   font-family: 'Minion pro';
   src: url('../fonts/Minion-Pro.ttf') format('truetype');
