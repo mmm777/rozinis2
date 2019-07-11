@@ -1,4 +1,7 @@
 {
   "version": 1,
   "name": "now-example-static"
+  "builds": [
+    { "src": "index.html", "use": "@now/static" }
+  ]
 }
